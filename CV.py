@@ -21,7 +21,7 @@ with st.container():
 
     
     with out_col2:
-        st.image('C:/Streamlit_practice/Resume Build/images/my_pic.png',width=200)
+        st.image('images/my_pic.png',width=200)
 
 st.divider()
 
